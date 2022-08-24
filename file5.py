@@ -1,5 +1,5 @@
 v = 10
-j = 9
+j = 6
 
 print(v)
 print(j)
